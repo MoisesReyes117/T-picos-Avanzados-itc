@@ -1,0 +1,20 @@
+#boton.button:hover{
+ -fx-base: #00e5ff;
+}
+.root{
+-fx-base: #CAF9FF;
+}
+#boton{
+-fx-base: #FF4848;
+}
+#texto{
+-fx-background-color: #464646;
+-fx-background-radius: 5;
+-fx-padding: 5;
+}
+#btnMina{
+/*-fx-background-image : url();
+*/
+-fx-background-color: #000000;
+-fx-background-size: cover, auto;
+}
