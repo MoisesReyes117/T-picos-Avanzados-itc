@@ -1,0 +1,40 @@
+
+.root{
+-fx-base: #CBCBCB;
+}
+#btnFuncion{
+-fx-base: #B4EAFF;
+-fx-min-height:30;
+-fx-min-width:50;
+-fx-background-radius: 5;
+-fx-padding: 8;
+}
+#btnRowNormal{
+-fx-base: #B4EAFF;
+-fx-pref-height:35;
+-fx-min-width:50;
+-fx-background-radius: 5;
+-fx-padding: 8;
+}
+#btnLarga{
+-fx-base: #B4EAFF;
+-fx-pref-height:35;
+-fx-min-width:100;
+-fx-background-radius: 5;
+-fx-padding: 8;
+}
+#btnCorta{
+ -fx-base: #B4EAFF;
+ -fx-pref-height:35;
+ -fx-min-width:35;
+ -fx-background-radius: 5;
+ -fx-padding: 8;
+ }
+#btnEspacio{
+ -fx-base: #B4EAFF;
+ -fx-pref-height:35;
+ -fx-min-width:400;
+ -fx-background-radius: 5;
+ -fx-padding: 8;
+ }
+

@@ -1,4 +1,4 @@
-package sample;
+package sample.Vistas;
 
 public class RecursoCompartido {
     public int[] arreglo = new int[5];

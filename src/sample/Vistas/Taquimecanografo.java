@@ -1,4 +1,4 @@
-package sample;
+package sample.Vistas;
 
 import Eventos.EventoTaquimecanografo;
 import Eventos.EventoVentanaTaqui;
